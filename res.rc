@@ -1,0 +1,95 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// “ú–{Œê resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_JPN)
+#ifdef _WIN32
+LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
+#pragma code_page(932)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON16_00           ICON    DISCARDABLE     "icon\\16\\Icon16_00.ico"
+IDI_ICON16_01           ICON    DISCARDABLE     "icon\\16\\Icon16_01.ico"
+IDI_ICON16_02           ICON    DISCARDABLE     "icon\\16\\Icon16_02.ico"
+IDI_ICON16_03           ICON    DISCARDABLE     "icon\\16\\Icon16_03.ico"
+IDI_ICON16_04           ICON    DISCARDABLE     "icon\\16\\Icon16_04.ico"
+IDI_ICON16_05           ICON    DISCARDABLE     "icon\\16\\Icon16_05.ico"
+IDI_ICON16_06           ICON    DISCARDABLE     "icon\\16\\Icon16_06.ico"
+IDI_ICON16_07           ICON    DISCARDABLE     "icon\\16\\Icon16_07.ico"
+IDI_ICON16_08           ICON    DISCARDABLE     "icon\\16\\Icon16_08.ico"
+IDI_ICON16_09           ICON    DISCARDABLE     "icon\\16\\Icon16_09.ico"
+IDI_ICON16_10           ICON    DISCARDABLE     "icon\\16\\Icon16_10.ico"
+IDI_ICON16_11           ICON    DISCARDABLE     "icon\\16\\Icon16_11.ico"
+IDI_ICON32_00           ICON    DISCARDABLE     "icon\\32\\Icon32_00.ico"
+IDI_ICON32_01           ICON    DISCARDABLE     "icon\\32\\Icon32_01.ico"
+IDI_ICON32_02           ICON    DISCARDABLE     "icon\\32\\Icon32_02.ico"
+IDI_ICON32_03           ICON    DISCARDABLE     "icon\\32\\Icon32_03.ico"
+IDI_ICON32_04           ICON    DISCARDABLE     "icon\\32\\Icon32_04.ico"
+IDI_ICON32_05           ICON    DISCARDABLE     "icon\\32\\Icon32_05.ico"
+IDI_ICON32_06           ICON    DISCARDABLE     "icon\\32\\Icon32_06.ico"
+IDI_ICON32_07           ICON    DISCARDABLE     "icon\\32\\Icon32_07.ico"
+IDI_ICON32_08           ICON    DISCARDABLE     "icon\\32\\Icon32_08.ico"
+IDI_ICON32_09           ICON    DISCARDABLE     "icon\\32\\Icon32_09.ico"
+IDI_ICON32_10           ICON    DISCARDABLE     "icon\\32\\Icon32_10.ico"
+IDI_ICON32_11           ICON    DISCARDABLE     "icon\\32\\Icon32_11.ico"
+#endif    // “ú–{Œê resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
